@@ -10,4 +10,4 @@ wcjiang/linux-command
 greper/certd:latest
 ghcr.io/open-webui/open-webui:main
 ollama/ollama
-infiniflow/ragflow
+infiniflow/ragflow:nightly
