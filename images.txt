@@ -10,4 +10,3 @@ wcjiang/linux-command
 greper/certd:latest
 ghcr.io/open-webui/open-webui:main
 ollama/ollama
-registry.cn-hangzhou.aliyuncs.com/infiniflow/ragflow
