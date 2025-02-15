@@ -6,4 +6,5 @@
 nginx
 mysql
 redis
-
+wcjiang/linux-command
+greper/certd:latest
