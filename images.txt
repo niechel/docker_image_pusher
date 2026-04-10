@@ -8,6 +8,4 @@ mysql
 redis
 wcjiang/linux-command
 greper/certd:latest
-ghcr.io/open-webui/open-webui:main
-ollama/ollama
-infiniflow/ragflow:nightly
+netcccyun/dnsmgr:latest
